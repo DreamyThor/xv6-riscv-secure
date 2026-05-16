@@ -102,3 +102,15 @@
   - least-privilege file access
   - privileged audit visibility
   - role-based separation of access
+
+# Experience and lessons learnt
+  1. Improved my familiarity with kernel data structures and low-level operating system programming.
+  2. Reinforced my fundamental understanding of kernel mechanisms such as traps, system calls, privilege separation, and auditing.
+  3. Gained practical experience modifying kernel code and tracing how changes affect the overall system behavior.
+  4. Strengthened my ability to design modular solutions instead of writing repetitive or redundant code.
+  5. Learned how authentication, access control, and auditing work together as integrated security layers rather than isolated features.
+  6. Developed a better understanding of role-based security and UNIX-style file permission models in operating systems.
+  7. Improved my debugging and reasoning skills by following the full control flow from user programs to kernel execution.
+  8. Gained more appreciation for how small design decisions in the kernel can create major security weaknesses or protections.
+  9. Learned how to think more carefully about secure system design, especially in the context of safety-critical systems such as medical devices.
+  10. Built more confidence working with a kernel codebase instead of only studying operating system concepts theoretically.
