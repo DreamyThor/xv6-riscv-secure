@@ -4,6 +4,8 @@
   This project extends the `xv6-riscv` kernel with core security mechanisms for a "medical-device" inspired operating system environment. The goal was to simulate protections expected in safety-critical embedded systems by adding authentication, file access control, and system call auditing.
 
   Official Xv6 for RISC-V GitHub repo: https://github.com/mit-pdos/xv6-riscv/tree/riscv 
+  Buffer Overflow/Overread Write-up: https://any.coop/A5x3Mptwx7XipBxZLmYErKV57duWziyMSiGsBRCkNxx5XFtf/os-security-7th-practical-assignment
+  Integrating Role-Based Access Controls Write-up: https://any.coop/A5x3Mptwx7XipBxZLmYErKV57duWziyMSiGsBRCkNxx5XFtf/os-security-12th-assignment
 
   ## Objectives Achieved
 
