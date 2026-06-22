@@ -5,7 +5,7 @@
 
   Official Xv6 for RISC-V GitHub repo: https://github.com/mit-pdos/xv6-riscv/tree/riscv 
   
-  Buffer Overflow/Overread Write-up: [https://any.coop/A5x3Mptwx7XipBxZLmYErKV57duWziyMSiGsBRCkNxx5XFtf/os-security-7th-practical-assignment](https://any.coop/A5x3Mptwx7XipBxZLmYErKV57duWziyMSiGsBRCkNxx5XFtf/mitigating-buffer-overflow-overread-in-xv-6)
+  Buffer Overflow/Overread Write-up: https://any.coop/A5x3Mptwx7XipBxZLmYErKV57duWziyMSiGsBRCkNxx5XFtf/mitigating-buffer-overflow-overread-in-xv-6
   
   Integrating Role-Based Access Controls Write-up: [[https://any.coop/A5x3Mptwx7XipBxZLmYErKV57duWziyMSiGsBRCkNxx5XFtf/os-security-12th-assignment](https://any.coop/A5x3Mptwx7XipBxZLmYErKV57duWziyMSiGsBRCkNxx5XFtf/xv-6-role-based-access-control-implementation)](https://any.coop/A5x3Mptwx7XipBxZLmYErKV57duWziyMSiGsBRCkNxx5XFtf/xv-6-role-based-access-control-implementation)
 
